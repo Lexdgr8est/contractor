@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "title": "Tend to Landscape",
+        "Location": "Burford, GA",
+        "desc": "There are several overgrown shrubs and hedges that need to be tended to. Seeking a Professionsal",
+        "worker": "Leonard Wes",
+        "status": "Payment Pending",
+        "avi": "./images/worker1.jpg",
+        "progress": "98"
+    },
+    {
+        "id": "2",
+        "title": "Moving Furniture",
+        "Location": "Burford, GA",
+        "desc": "In need of a person with a truck to move a few large pieces of antique furniture to be moved to the required place",
+        "worker": "Mikel Nice",
+        "status": "1:23 PM",
+        "avi": "./images/worker2.jpg",
+        "progress": "53"    
+    },
+    {
+        "id": "3",
+        "title": "Fix Kitchen Plumbing",
+        "Location": "Atlanta, GA",
+        "desc": "The kitchen sink has a major leak in the pipes. Locate, fix and possibly replace with a very big one",
+        "worker": "Harry Nelson",
+        "status": "1:23 PM",
+        "avi": "./images/worker3.jpg",
+        "progress": "78"    
+    },
+    {
+        "id": "4",
+        "title": "Remove Firewood",
+        "Location": "Ellerwood, GA",
+        "desc": "Remove firewood from the lawn",
+        "worker": "Jason Cobb",
+        "status": "1:23 PM",
+        "avi": "./images/worker4.png",
+        "progress": "2"    
+    }
+]

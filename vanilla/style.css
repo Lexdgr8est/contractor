@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.g-d {
+    display: grid;
+    grid-gap: 1em;
+}
+.g-2 {
+    grid-template-columns: 1fr 1fr;
+}
+.g-2 {
+    grid-template-columns: 1fr 1fr;
+}
